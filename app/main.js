@@ -3,7 +3,7 @@ const submenuItems = document.querySelectorAll(".submenu-item");
 const viewer = document.getElementById("viewer");
 const sidebar = document.querySelector(".sidebar");
 
-let selectedSrc = "./assets/certificates/Cpp/Certificate_Cpp_Pro.jpg";
+let selectedSrc = "./assets/profile/Cpp/Certificate_Cpp_Pro.jpg";
 let scale = 1;
 
 menuItems.forEach((item) => {
